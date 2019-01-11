@@ -7,4 +7,4 @@ Rather the projects should be copied to a new repository.
 
 * [music-service](https://github.com/ybonjour/examples/tree/master/music-service): A simple Java 8 Spring Boot REST Application simulating a backend service
 
-* [android-greeter](https://github.com/ybonjour/examples/tree/master/music-service): An Android application with unit tests and instrumentation tests
+* [android-greeter](https://github.com/ybonjour/examples/tree/master/android-greeter): An Android application with unit tests and instrumentation tests
