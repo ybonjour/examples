@@ -5,4 +5,6 @@ The projects shall remain clean and simplistic and there should be no artifacts 
 Rather the projects should be copied to a new repository.
 
 
-* [music-service](https://github.com/ybonjour/examples/tree/master/music-service): A simple Java Spring Boot REST Application simulating a backend service
+* [music-service](https://github.com/ybonjour/examples/tree/master/music-service): A simple Java 8 Spring Boot REST Application simulating a backend service
+
+* [android-greeter](https://github.com/ybonjour/examples/tree/master/music-service): An Android application with unit tests and instrumentation tests

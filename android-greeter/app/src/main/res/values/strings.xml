@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-greeter</string>
+    <string name="your_name">Your Name</string>
+    <string name="say_hi">Say Hi!</string>
+    <string name="greeting">Hi %1$s!</string>
+    <string name="errorNoNameEntered">No Name entered</string>
+</resources>
