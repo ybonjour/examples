@@ -5,8 +5,8 @@ A backend service to manage songs, users and likes in memory.
 # Run
 You can run the backend service by executing the following steps on the command line
 
-1. Clone the Repository `git clone https://git.ffhs.ch/yves.bonjour/music-service.git`
-2. Run the service `cd music-service; ./gradlew bootRun`
+1. Clone the Repository `git clone git@github.com:ybonjour/examples.git`
+2. Run the service `cd examples/music-service; ./gradlew bootRun`
 3. Now you can access the endpoints with an HTTP Client like [Postman](https://www.getpostman.com/) on localhost port 3002 (e.g. http://localhost:3002/songs).
 
 ## Models
